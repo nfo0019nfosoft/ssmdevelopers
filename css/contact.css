@@ -640,3 +640,18 @@ animation:iconSwitch2 4s infinite;
 100%{opacity:0;}
 
 }
+
+
+
+
+
+.success-box{
+display:none;
+background:#cde8b5;
+border:1px solid #a7d08c;
+padding:20px;
+margin-top:20px;
+font-size:18px;
+color:#2d3e2f;
+text-align:left;
+}
